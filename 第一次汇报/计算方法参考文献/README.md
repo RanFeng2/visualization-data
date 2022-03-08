@@ -1,4 +1,16 @@
-**一、论文论述部分**
+# 计算真光层POC通量
+
+1.【评估”e-ratio“模型】
+
+Spatial and Temporal Variations of Particulate Organic Carbon Sinking Flux in Global Ocean from 2003 to 2018
+
+https://www.mdpi.com/2072-4292/11/24/2941
+
+2.【对理论和方法的完整叙述】
+
+李腾. 南海北部真光层颗粒有机碳输出通量的遥感估算研究 [D]; 国防科技大学,2019.
+
+# 选题背景部分
 
 1.研发海洋“负排放”技术支撑国家“碳中和”需求【国家政策】
 
@@ -20,27 +32,5 @@ DOI: 10.1093/nsr/nwy020
 
 DOI: 10.1093/nsr/nwy030
 
-**二、ρCO2\fCO2\二氧化碳通量 计算方法**
 
-**6.东海表层二氧化碳分压及其海—气界面二氧化碳通量的数值模拟研究【论文主要模板】**
-
-DOI: 10.27248/d.cnki.gnjqc.2021.000370
-
-**7.河口无机碳水样保存方法及CO_2分压优化计算——以长江口为例【对于计算软件的各变量处理较为明确】**
-
-刘鹏飞 and 翟惟东
-
-**8.黄河中游pCO2与fCO2时空变化与影响因素--以头道拐、潼关为例【有公式，推导过程】**
-
-https://www.doc88.com/p-9723517403584.html?r=1
-
-9.中国海及邻近区域碳库与通量综合分析【参考数据多，来源清晰】
-
-https://kns.cnki.net/kcms/detail/11.5842.p.20180930.0510.002.html
-
-**三、附加材料**
-
-10.Comparison of seven packages that compute ocean carbonate chemistry【计算通量软件比较】
-
-J. C. Orr, J. M. Epitalon and J. P. Gattuso
 
