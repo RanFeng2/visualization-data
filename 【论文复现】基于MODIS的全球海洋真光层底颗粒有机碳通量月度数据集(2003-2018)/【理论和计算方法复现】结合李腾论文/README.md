@@ -48,7 +48,7 @@ NPP   =   F   ×   Chla
 
 + **NASA水色数据**：海面温度（SST） 、海面叶绿素 (Chl) 和透光带深度 (Zeu)
 
-   https://oceandata.sci.gsfc.nasa.gov/   ==需要下载，【暂定2017年1月-2021年12月】==
+   https://oceandata.sci.gsfc.nasa.gov/   ==需要下载，【暂定2016年1月-2021年12月】==
 
 
 
